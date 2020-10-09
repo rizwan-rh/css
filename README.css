@@ -1,0 +1,43 @@
+<style type="text/css">
+    $font: 'Poppins', sans-serif;
+ }
+
+body {
+	
+	align-items: center;
+	justify-content: center;
+	
+}
+
+.text { color: white; font-family: arial;	}
+
+
+.button {
+  padding: 2px;
+  font-size: 14px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #000;
+  background-color: #FC0;
+  border: none;
+  border-radius: 50%; height: 70px; width: 70px; margin: 5px;
+} 
+
+.button:hover {background-color: #C00}
+
+.button:active {
+  background-color: #FFCDD2;;
+  div.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  top: -7;
+  padding: 5px;
+  background-color: transparent;
+  border: 2px solid transparent;
+}
+#border2 {
+background-color:black; margin-top: -7px; margin-left: -10px; margin-right: -7px; width: 800px;
+}
+</style>
